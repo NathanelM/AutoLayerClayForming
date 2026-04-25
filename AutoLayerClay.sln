@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLayerClay", "AutoLayerClay\AutoLayerClay\AutoLayerClay.csproj", "{8047F988-374C-4359-A0D6-30B3C03A10DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CakeBuild", "AutoLayerClay\ZZCakeBuild\CakeBuild.csproj", "{DD6F9EC4-E596-46D6-A56B-9CAFEFD45961}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8047F988-374C-4359-A0D6-30B3C03A10DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8047F988-374C-4359-A0D6-30B3C03A10DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8047F988-374C-4359-A0D6-30B3C03A10DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8047F988-374C-4359-A0D6-30B3C03A10DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD6F9EC4-E596-46D6-A56B-9CAFEFD45961}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD6F9EC4-E596-46D6-A56B-9CAFEFD45961}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD6F9EC4-E596-46D6-A56B-9CAFEFD45961}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD6F9EC4-E596-46D6-A56B-9CAFEFD45961}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
