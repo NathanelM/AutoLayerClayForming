@@ -1,13 +1,13 @@
 {
-    "$schema": "https://moddbcdn.vintagestory.at/schema/modinfo.latest.json",
     "type": "Code",
-    "modid": "autolayerclay",
-    "name": "Auto Layer Clay Forming",
+    "modid": "autoclayleyerforming",
+    "name": "Auto Clay Layer Forming",
     "authors": [
         "Stratox33"
     ],
-    "description": "To be added",
+    "description": "Basic Mod to make Duplicate Layer complete the current layer when clay forming, it's a continuation of the mod ZinkModAutoClay",
     "version": "1.0.0",
+    "side": "Client",
     "dependencies": {
         "game": "1.22.0"
     }
